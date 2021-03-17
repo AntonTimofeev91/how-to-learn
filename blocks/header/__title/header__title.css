@@ -6,8 +6,9 @@
   font-size: 102px;
   line-height: 96px;
   font-weight: bolder;
-  width: 730px;
+  max-width: 730px;
+  width: 100%;
   padding-left: 64px;
   align-self: center;
-  z-index: 2;
+  z-index: 1;
 }

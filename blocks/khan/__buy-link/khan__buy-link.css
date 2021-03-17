@@ -4,7 +4,7 @@
   font-size: 30px;
   line-height: 42px;
   font-weight: normal;
-  height: 40px;
+  align-self: start;
   opacity: 1;
   transition: opacity 0.1s linear;
 }
